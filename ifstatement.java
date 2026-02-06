@@ -49,10 +49,10 @@ public class ifstatement {
         // GROUP 3
 
         if (isStudent) {
-            System.out.println("You are a student!");
+            System.out.print("You are a student!");
         }
         else {
-            System.out.println("You are not a student!");
+            System.out.print("You are not a student!");
         }
         
         scanner.close();
