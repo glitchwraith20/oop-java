@@ -30,6 +30,6 @@ public class nestedifstatement {
             }
         }
 
-        System.out.printf("The price of the ticket is: $%.2f", price);
+        System.out.printf("The price of the ticket is: $%.2f\n", price);
     }
 }
